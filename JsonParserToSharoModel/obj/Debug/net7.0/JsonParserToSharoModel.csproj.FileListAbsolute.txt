@@ -1,0 +1,15 @@
+M:\C#\JsonParserToSharoModel\JsonParserToSharoModel\bin\Debug\net7.0\JsonParserToSharoModel.exe
+M:\C#\JsonParserToSharoModel\JsonParserToSharoModel\bin\Debug\net7.0\JsonParserToSharoModel.deps.json
+M:\C#\JsonParserToSharoModel\JsonParserToSharoModel\bin\Debug\net7.0\JsonParserToSharoModel.runtimeconfig.json
+M:\C#\JsonParserToSharoModel\JsonParserToSharoModel\bin\Debug\net7.0\JsonParserToSharoModel.dll
+M:\C#\JsonParserToSharoModel\JsonParserToSharoModel\bin\Debug\net7.0\JsonParserToSharoModel.pdb
+M:\C#\JsonParserToSharoModel\JsonParserToSharoModel\obj\Debug\net7.0\JsonParserToSharoModel.csproj.AssemblyReference.cache
+M:\C#\JsonParserToSharoModel\JsonParserToSharoModel\obj\Debug\net7.0\JsonParserToSharoModel.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\JsonParserToSharoModel\JsonParserToSharoModel\obj\Debug\net7.0\JsonParserToSharoModel.AssemblyInfoInputs.cache
+M:\C#\JsonParserToSharoModel\JsonParserToSharoModel\obj\Debug\net7.0\JsonParserToSharoModel.AssemblyInfo.cs
+M:\C#\JsonParserToSharoModel\JsonParserToSharoModel\obj\Debug\net7.0\JsonParserToSharoModel.csproj.CoreCompileInputs.cache
+M:\C#\JsonParserToSharoModel\JsonParserToSharoModel\obj\Debug\net7.0\JsonParserToSharoModel.dll
+M:\C#\JsonParserToSharoModel\JsonParserToSharoModel\obj\Debug\net7.0\refint\JsonParserToSharoModel.dll
+M:\C#\JsonParserToSharoModel\JsonParserToSharoModel\obj\Debug\net7.0\JsonParserToSharoModel.pdb
+M:\C#\JsonParserToSharoModel\JsonParserToSharoModel\obj\Debug\net7.0\JsonParserToSharoModel.genruntimeconfig.cache
+M:\C#\JsonParserToSharoModel\JsonParserToSharoModel\obj\Debug\net7.0\ref\JsonParserToSharoModel.dll
